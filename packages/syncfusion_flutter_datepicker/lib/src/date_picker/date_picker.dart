@@ -7019,7 +7019,7 @@ class _SfDateRangePickerState extends State<_SfDateRangePicker>
               children: <Widget>[
                 TextButton(
                   child: Text(
-                    _localizations.todayLabel.toUpperCase(),
+                    "HOY",
                     style: TextStyle(color: textColor),
                   ),
                   onPressed: () {
